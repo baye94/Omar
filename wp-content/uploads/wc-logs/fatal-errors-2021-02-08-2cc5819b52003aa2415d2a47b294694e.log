@@ -1,0 +1,12 @@
+2021-02-08T01:31:02+00:00 CRITICAL Out of memory (allocated 26214400) (tried to allocate 32768 bytes) dans /opt/lampp/htdocs/Omar/wp-admin/includes/ajax-actions.php à la ligne 3257
+
+2021-02-08T01:42:42+00:00 CRITICAL Out of memory (allocated 22020096) (tried to allocate 1101824 bytes) dans /opt/lampp/htdocs/Omar/wp-includes/class.wp-scripts.php à la ligne 458
+
+2021-02-08T19:34:32+00:00 CRITICAL Out of memory (allocated 28311552) (tried to allocate 987136 bytes) dans /opt/lampp/htdocs/Omar/wp-includes/class.wp-scripts.php à la ligne 301
+
+2021-02-08T19:41:51+00:00 CRITICAL Out of memory (allocated 9437184) (tried to allocate 32768 bytes) dans /opt/lampp/htdocs/Omar/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-report-sales-v2-controller.php à la ligne 1
+
+2021-02-08T19:41:51+00:00 CRITICAL Out of memory (allocated 9437184) (tried to allocate 32768 bytes) dans /opt/lampp/htdocs/Omar/wp-content/plugins/woocommerce/includes/rest-api/Controllers/Version2/class-wc-rest-report-sales-v2-controller.php à la ligne 1
+
+2021-02-08T19:41:58+00:00 CRITICAL Out of memory (allocated 36700160) (tried to allocate 4198400 bytes) dans /opt/lampp/htdocs/Omar/wp-includes/functions.php à la ligne 3953
+
